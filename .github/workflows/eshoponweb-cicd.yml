@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-estebana
   LOCATION: easus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: bec5ae64-b02a-4af4-8302-50e4cfbdd191
   WEBAPP-NAME: az400-webapp-estebana
 
 
